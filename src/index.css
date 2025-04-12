@@ -69,10 +69,10 @@ h6 {
   --sub-text-color: #a0a0a0;
   --border-color: #2e2e2e;
   --main-width: 800px;
-  --dark-bg: #1a1a1a;
-  --dark-text: #e5e5e5;
-  --light-bg: #fff;
-  --light-text: #ededed;
+  --dark-bg: #222;
+  --dark-text: #ebdbb2;
+  --light-bg: #fbf1c7;
+  --light-text: #7c6f64;
 
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
