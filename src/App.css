@@ -1,1 +1,5 @@
+svg {
+  border: dashed 1px var(--light-text);
+}
+
 @media (prefers-reduced-motion: no-preference) {}

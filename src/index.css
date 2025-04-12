@@ -79,8 +79,8 @@ h6 {
   font-weight: 400;
 
   color-scheme: light dark;
-  color: var(--dark-text);
-  background-color: var(--dark-bg);
+  color: var(--light-text);
+  background-color: var(--light-bg);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -89,8 +89,6 @@ h6 {
 }
 
 main {
-  border-left: solid 1px var(--border-color);
-  border-right: solid 1px var(--border-color);
   height: 100%;
   margin: 0 auto;
   max-width: var(--main-width);
