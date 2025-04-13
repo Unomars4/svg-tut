@@ -7,7 +7,7 @@ Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/Unomars4/svg-tut.git
-cd your-repo-name
+cd svg-tut
 npm install
 ```
 
