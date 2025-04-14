@@ -1,6 +1,5 @@
 import "./App.css";
-import DayOne from "./components/day-one";
-import DayTwo from "./components/day-two";
+import { DayOne, DayTwo } from "./components/experiments";
 
 function App() {
   return (
