@@ -1,4 +1,4 @@
-import PracticalLayout from "./layouts/prac-layout";
+import PracticalLayout from "../layouts/prac-layout";
 
 export default function DayOne() {
   return (
