@@ -2,5 +2,18 @@ svg {
   border: dashed 1px var(--light-text);
 }
 
-@media (prefers-reduced-motion: no-preference) {
+.prac {
+  margin: 20px 0;
 }
+
+.multiple {
+  display: flex;
+  gap: 18px;
+}
+
+.headings {
+  margin-bottom: 10px;
+  line-height: 1.15;
+}
+
+@media (prefers-reduced-motion: no-preference) {}
