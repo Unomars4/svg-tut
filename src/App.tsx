@@ -1,5 +1,11 @@
 import "./App.css";
-import { DayFour, DayOne, DayThree, DayTwo } from "./components/experiments";
+import {
+  DayFour,
+  DayOne,
+  DayThree,
+  DayTwo,
+  Favicon,
+} from "./components/experiments";
 
 function App() {
   return (
@@ -8,6 +14,7 @@ function App() {
       <DayTwo />
       <DayThree />
       <DayFour />
+      <Favicon />
     </main>
   );
 }
